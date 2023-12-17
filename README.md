@@ -1,4 +1,5 @@
 # jubilant-giggle
+
 This is my first repository.
 <br>
-Author- Vinayak mudgal.
+Author- Vinayak mudgal (first)
